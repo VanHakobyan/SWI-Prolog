@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1802BCF7-6695-4DCD-A8D6-B77A4BB07012}"
+	ProjectSection(SolutionItems) = preProject
+		FirstPrologProg.pl = FirstPrologProg.pl
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06FA7DA1-850D-4880-95EC-7CB102ABC365}
+	EndGlobalSection
+EndGlobal
