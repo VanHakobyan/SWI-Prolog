@@ -8,3 +8,5 @@
 8. [Multiplication Even numbers](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/MultiplicationOfEvens.pl)
 9. [SemiFactorial](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/SemiFactorial.pl)
 10. [Greatest Common Divisor](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/GreatestCommonDivisor.pl)
+
+* [Problems](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/prblems.docx)
