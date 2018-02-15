@@ -1,0 +1,1 @@
+f(X,Y):-X>1,X1 is X-2,f(X1,Y1), Y is Y1*X.
