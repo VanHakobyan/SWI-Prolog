@@ -3,7 +3,7 @@
 3. [Factorial](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/Factorial.pl)
 4. [Fibonacci](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/Fibonacci.pl)
 5. [Fibonacci x!+(2x)!](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/XFactorialPlusTwoXFactorial.pl)
-6. [F(x,y) = (x*y)! ](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/)
+6. [F(x,y) = (x*y)! ](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/FactorialInMult.pl)
 7. [Sum Even numbers](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/SumEvens.pl)
 8. [Multiplication Even numbers](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/MultiplicationOfEvens.pl)
 9. [SemiFactorial](https://github.com/VanHakobyan/SWI-Prolog/blob/master/YSUPractise/SemiFactorial.pl)
