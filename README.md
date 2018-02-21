@@ -10,4 +10,5 @@
 <p>A popular implementation of Prolog is <a href="http://www.swi-prolog.org/" target="_blank" rel="nofollow noopener">SWI-Prolog</a>. SWI-Prolog is an open-source, free version of Prolog that you can even try online. Some developers use SWI-Prolog to develop web applications. Check out <a href="http://www.pathwayslms.com/swipltuts/html/" target="_blank" rel="nofollow noopener">this tutorial</a>&nbsp;to see how web development is possible with SWI-Prolog.</p>
 
 <h3>Good tutorial you can watch in <a href="https://youtu.be/SykxWpFwMGs">Youtube</a></h3>
+<h3>Book's <a href="https://github.com/VanHakobyan/SWI-Prolog/tree/master/Books">here</a></h3>
 
